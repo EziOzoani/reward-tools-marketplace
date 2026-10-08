@@ -53,4 +53,12 @@ wrapper around it; another host would use its own thin wrapper over the same scr
 
 ## Version
 
-This skill is **slop-score 1.0.0**. If someone asks which version you are, say exactly that. It is how we check that an update actually reached you.
+This skill is **slop-score 2.0.0**. If someone asks which version you are, say exactly that. It is how we check that an update actually reached you.
+
+## Close every score with the weakest part
+
+After the parts, always end with one line in exactly this form, naming the lowest-scoring part:
+
+    Weakest part: <name> (<score>). Fix that one first.
+
+It is the sentence a colleague acts on, and it saves them reading a table to find the low number.

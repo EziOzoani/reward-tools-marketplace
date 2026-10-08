@@ -13,6 +13,7 @@ You do not need a GitHub account, an administrator, or a project folder.
 
 - **slop-score** — score a piece of writing for filler and long sentences, and see which part moved
   when you revise it.
+- **plain-swap** — swap the buzzwords for plain words, one at a time, keeping your own voice.
 
 ## Updates
 
