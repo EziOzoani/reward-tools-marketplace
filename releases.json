@@ -1,0 +1,10 @@
+{
+  "plugin": "reward-tools",
+  "plugin_version": "1.0.0",
+  "skills": {
+    "slop-score": {
+      "version": "1.0.0",
+      "note": "first public release"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "reward-engineering",
+  "description": "Scoring skills you can run in chat, Cowork and Claude Code. No key, no install.",
+  "owner": {
+    "name": "appliedAI Institute"
+  },
+  "plugins": [
+    {
+      "name": "reward-tools",
+      "source": "./plugins/reward-tools",
+      "description": "Score a piece of writing for slop and see why the score changes when you revise it."
+    }
+  ]
+}
